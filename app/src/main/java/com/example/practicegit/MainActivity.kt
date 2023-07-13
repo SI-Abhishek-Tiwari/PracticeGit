@@ -9,6 +9,7 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         println("This is our second commit")
-        mklasnksaxsajkl
+
+        hii this is erro
     }
 }
